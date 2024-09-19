@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Ruta del archivo TXT
+# Ruta del archivo TXT para que sea bacan
 archivo_txt = 'TAREA_BD.txt'
 
 try:
